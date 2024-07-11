@@ -1,0 +1,23 @@
+This project performs financial analysis on a portfolio consisting of stocks (AAPL, MSFT, GOOGL, AMZN) using Python. It calculates various metrics including annual return, volatility, Sharpe ratio, Value at Risk (VaR), and Portfolio Beta. Visualization of portfolio performance and correlation among stocks is also included.
+Modify Stocks and Date Range:
+
+Adjust stocks list and start / end dates in the script (portfolio_analysis.py) to analyze different portfolios or time periods.
+Interpret Results:
+
+Annual Return: Measures the portfolio’s performance over a year.
+Annual Volatility: Indicates the risk (standard deviation) of the portfolio’s returns.
+Sharpe Ratio: Evaluates the risk-adjusted return, considering the risk-free rate.
+VaR (Value at Risk): Estimates the potential loss in adverse market conditions.
+Portfolio Beta: Measures the portfolio’s sensitivity to market movements compared to the S&P 500.
+Visualization
+Portfolio vs Market Performance:
+
+Line plot showing cumulative returns of the portfolio and the S&P 500.
+Correlation Matrix of Portfolio Stocks:
+
+Heatmap displaying the correlation coefficients between stocks in the portfolio.
+Portfolio Weights:
+
+Bar chart illustrating the allocation of weights among stocks in the portfolio.
+Contributing
+Contributions and suggestions are welcome. Please fork the repository and submit pull requests.
